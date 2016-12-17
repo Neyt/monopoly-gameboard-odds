@@ -1,3 +1,4 @@
+
 def monop(finish_order=6,games_order=3):
      
     finish = 10**finish_order
